@@ -32,17 +32,12 @@ Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font, to use, study, dissasemble, copy, merge, and modify copies of the
 the font for personal or research purposes.
 
-The Web font version of the font may be used without modification on a web site so long as the name of the font is acknowledged.
+The unmodified Web font version of the font may be used on a web site so long as the name of the font is acknowledged.
 
 Neither the original font nor modifications may be distributed or sold.
 
 Users of Aaron series fonts agree not to distribute a hieroglyphic font with a name starting with Aaron.
 
-### Web font additional permissions
-
-  *   **Aaron UMdC Alpha web font** (aaronumdcalpha100.woff)
-
-Aaron Web fonts
 
 ### Termination
 
