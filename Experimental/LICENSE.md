@@ -23,8 +23,8 @@ There are two important technical issues to consider:
 
 Once the status of Unicode hieroglyphic progresses sufficiently and
 verification procedures become available to ensure a hieroglyphic
-font is valid for purpose it will be possible to release fonts under 
-standard font licenses. AEFL is used in the meantime to help avoid anarchy or malicious intent.
+font is valid for purpose it will be possible to release and distribute fonts under 
+standard font licenses. AEFL is used in the meantime to help avoid anarchy or malicious intent. Contact the author if licensing is an issue.
 
 ### Permissions and conditions
 
