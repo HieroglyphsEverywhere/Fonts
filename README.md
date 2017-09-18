@@ -1,1 +1,1 @@
-# Hieroglphs Everywhere Fonts
+# Hieroglyphs Everywhere Fonts
