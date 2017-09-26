@@ -30,6 +30,15 @@ Unicode are also defined. See [UMDC project](https://github.com/HieroglyphsEvery
 
 **Licensing:** [Aaron Experimental Font License (AEFL)](https://github.com/HieroglyphsEverywhere/Fonts/blob/master/Experimental/LICENSE.md).
 
+#### Aaron Basic RTL Alpha
+
+The **Aaron Basic RTL Alpha** font contains all characters from the UMdC Alpha font with
+mirrored (right-facing) hieroglyphs as is necessary to display the characters in Right to Left writing 
+direction. UMdC always works with Left to Right (LTR) text so at present this font is mainly only intended for documentation purposes.
+
+**Licensing:** [Aaron Experimental Font License (AEFL)](https://github.com/HieroglyphsEverywhere/Fonts/blob/master/Experimental/LICENSE.md).
+
+
 #### Aegyptus
 
 The **Aegyptus** font contains all 1071 Egyptian Hieroglyphs added to Unicode in 2009. 

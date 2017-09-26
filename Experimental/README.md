@@ -34,11 +34,11 @@ other current Unicode hieroglyphic font. I've made an effort to avoid various pr
 apparent in other Unicode hieroglyphic fonts such as sizing and positioning of glyphs.
 If you find bugs or have any suggestions for improvements let me know and I'll see what can be done for the next update.
 
-### ### Aaron Basic RTL Alpha font
+### Aaron Basic RTL Alpha font
 
-My next font in preparation is **Aaron Basic RTL Alpha** which provides right facing hieroglyphs for RTL (Right to left text), 
+The **Aaron Basic RTL Alpha** font provides right facing hieroglyphs for RTL (Right to left text), 
 primarily intended for use in documentation at this stage.
 
 Bob Richmond
 
-2017-09-21
+2017-09-26
