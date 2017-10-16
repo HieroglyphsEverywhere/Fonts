@@ -10,6 +10,7 @@ Bob Richmond
 | Name        | Designer           | Link |
 | ------------- |:-------------:| -----:|
 | Aaron UMdC Alpha | Bob Richmond |  [this project](https://github.com/HieroglyphsEverywhere/Fonts/tree/master/Experimental)
+| Aaron UMdC Phonetic Alpha | Bob Richmond |  [this project](https://github.com/HieroglyphsEverywhere/Fonts/tree/master/Experimental)
 | Aaron Basic RTL Alpha | Bob Richmond |  [this project](https://github.com/HieroglyphsEverywhere/Fonts/tree/master/Experimental)
 | Aegyptus | George Douros | http://users.teilar.gr/~g1951d/
 | Abydos | George Douros | http://users.teilar.gr/~g1951d/
@@ -27,6 +28,13 @@ The **Aaron UMdC Alpha** font contains all 1071 Egyptian Hieroglyphs added to Un
 for UMdC transcription of hieroglyphic are present,  including those used for Egyptian transliteration.
 The new Quadrat formatting characters in the pipeline for a future version of
 Unicode are also defined. See [UMDC project](https://github.com/HieroglyphsEverywhere/UMdC).
+
+**Licensing:** [Aaron Experimental Font License (AEFL)](https://github.com/HieroglyphsEverywhere/Fonts/blob/master/Experimental/LICENSE.md).
+
+#### Aaron UMdC Phonetic Alpha
+
+The **Aaron UMdC Phonetic Alpha** font is a variation of the **Aaron UMdC Alpha** font that uses colour-coding
+for hieroglyphic ideograms as an aid to proofreading UMdC-encoded data.
 
 **Licensing:** [Aaron Experimental Font License (AEFL)](https://github.com/HieroglyphsEverywhere/Fonts/blob/master/Experimental/LICENSE.md).
 

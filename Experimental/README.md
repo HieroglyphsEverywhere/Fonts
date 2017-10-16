@@ -34,6 +34,15 @@ other current Unicode hieroglyphic font. I've made an effort to avoid various pr
 apparent in other Unicode hieroglyphic fonts such as sizing and positioning of glyphs.
 If you find bugs or have any suggestions for improvements let me know and I'll see what can be done for the next update.
 
+### Aaron UMdC Alpha Phonetic font
+
+The **Aaron UMdC Phonetic Alpha** font is a variation of the 
+**Aaron UMdC Alpha** font that contains colour assignments 
+to hieroglyphic ideograms.
+
+In conjunction with text editors that suport polychromatic fonts, this
+can be a useful aid to proofreading UMdC-encoded data.
+
 ### Aaron Basic RTL Alpha font
 
 The **Aaron Basic RTL Alpha** font provides right facing hieroglyphs for RTL (Right to left text), 

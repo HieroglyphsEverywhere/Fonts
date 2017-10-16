@@ -10,7 +10,8 @@ The fonts are hosted at https://github.com/HieroglyphsEverywhere/Fonts/Experimen
 
   * **Aaron UMdC Alpha** (AaronUMdCAlpha100.ttf)
   * **Aaron UMdC Alpha web font** (AaronUMdCAlpha100.woff)
-  * **Aaron Basic RTL Alpha** (AaronBasicRTLAlpha100.ttf)
+  * **Aaron UMdC Phonetic Alpha** (AaronUMdCPhoneticAlpha100.ttf)
+  * **Aaron UMdC Phonetic Alpha web font** (AaronUMdCPhoneticAlpha100.woff)  * **Aaron Basic RTL Alpha** (AaronBasicRTLAlpha100.ttf)
   * **Aaron Basic RTL Alpha web font** (AaronBasicRTLAlpha100.woff)
 
 ### Preamble
