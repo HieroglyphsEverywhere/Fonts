@@ -7,12 +7,13 @@ for Unicode and provide information and examples to help evolve the next generat
 The first generation of Egyptian Hieroglyphic fonts in Unicode mostly
 consist of the 1071 Basic Egyptian Hieroglyphs introduced in Unicode 5.2.
 
-Examples of some fonts were listed last year at http://www.egpz.org/Page/Fonts before timescales for new Egyptian formatting characters slipped from 2017 to 2019. 
-<u>I'll be updating this material and relocating to GitHub soon so let me know of fonts you'd like to add to the list.</u>
+See my [List of Unicode Egyptian Hieroglyphic Fonts](https://github.com/HieroglyphsEverywhere/Fonts/blob/master/HieroglyphicFontList.md)
+for those I know about, so far.
 
-Here, as a starting point, I'm providing my downloadable hieroglyphic font
-**Aaron UMdC Alpha** 
-(available from the [Experimental](https://github.com/HieroglyphsEverywhere/Fonts/tree/master/Experimental) folder). **Aaron UMdC Alpha** is also pretty much a first generation font but with some additional features to support the
+In this project, as a starting point, I'm providing my **Aaron Alpha series** of downloadable "experimental" hieroglyphic fonts.
+(available from the [Experimental](https://github.com/HieroglyphsEverywhere/Fonts/tree/master/Experimental) folder). 
+
+The **Aaron UMdC Alpha** font s also pretty much a first generation font but with some additional features to support the
 [UMdC project](https://github.com/HieroglyphsEverywhere/UMdC) and other work on implementing and using the new formatting characters. It also avoids some of the hieroglyph size and position
 problems often encountered in other first generation fonts.
 
@@ -24,12 +25,10 @@ right to left direction of writing and polychromatic hieroglyphs. Egyptologists 
 applications. There is considerable work that needs to be done to make this happen. Much of whats involved will be very unfamiliar to
 most digital font designers. A further complication is that web browsers and other applications will need updating to support the new formatting controls.
 
-*To be continued.*
-
 For news and information on Ancient Egyptian in Unicode see my blog  https://hieroglyphseverywhere.blogspot.co.uk/.
 
 
 
 Bob Richmond
 
-2017-09-20
+Update 2017-10-16

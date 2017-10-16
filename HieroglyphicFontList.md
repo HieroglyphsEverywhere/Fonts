@@ -42,7 +42,7 @@ for hieroglyphic ideograms as an aid to proofreading UMdC-encoded data.
 
 The **Aaron Basic RTL Alpha** font contains all characters from the UMdC Alpha font with
 mirrored (right-facing) hieroglyphs as is necessary to display the characters in Right to Left writing 
-direction. UMdC always works with Left to Right (LTR) text so at present this font is mainly only intended for documentation purposes.
+direction. UMdC always works with Left to Right (LTR) text so at present this font is mainly intended for documentation purposes.
 
 **Licensing:** [Aaron Experimental Font License (AEFL)](https://github.com/HieroglyphsEverywhere/Fonts/blob/master/Experimental/LICENSE.md).
 
