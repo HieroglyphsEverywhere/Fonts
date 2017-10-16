@@ -13,7 +13,7 @@ for those I know about, so far.
 In this project, as a starting point, I'm providing my **Aaron Alpha series** of downloadable "experimental" hieroglyphic fonts.
 (available from the [Experimental](https://github.com/HieroglyphsEverywhere/Fonts/tree/master/Experimental) folder). 
 
-The **Aaron UMdC Alpha** font s also pretty much a first generation font but with some additional features to support the
+The **Aaron UMdC Alpha** font is pretty much a first generation font but with some additional features to support the
 [UMdC project](https://github.com/HieroglyphsEverywhere/UMdC) and other work on implementing and using the new formatting characters. It also avoids some of the hieroglyph size and position
 problems often encountered in other first generation fonts.
 
