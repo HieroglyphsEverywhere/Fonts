@@ -1,5 +1,5 @@
 # List of Unicode Egyptian Hieroglyphic Fonts
-Updated 2017-09-26
+Updated 2017-10-16
 
 These fonts all contain the Unicode 5.2 (2009) basic set of Egyptian Hieroglyphs.
 
