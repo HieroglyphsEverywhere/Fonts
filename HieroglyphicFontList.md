@@ -58,7 +58,7 @@ provided in the Unicode Plane 15 private user area. Aside from hieroglyphs, a st
 Along with Aegyptus, a subset standard-only font **Gardiner** is provided, without the Plane 15 additions.
 
 
-**Licensing:** Free for any use.
+**Licensing:** [UFAS license](https://dn-works.com/wp-content/uploads/2020/UFAS-Docs/License.pdf). Personal and non-commercial use only; multiple restrictions.
 
 
 #### Abydos
